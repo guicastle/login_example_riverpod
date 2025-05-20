@@ -213,7 +213,7 @@ class LoginPage extends ConsumerWidget {
 
 ---
 
-## 4. 🚀 Inicialização (`main.dart`)
+## 🚀 Inicialização (`main.dart`)
 
 ```dart
 // lib/main.dart
